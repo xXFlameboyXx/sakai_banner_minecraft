@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "sakai_clan:entity/banner/two_mountains",
+      "sprite": "sakai_clan:entity/banner/two_mountains"
+    }
+  ]
+}
